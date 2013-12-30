@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>name</key>
+		<string>Happy Birthday</string>
+		<key>filename</key>
+		<string>happy-birthday-to-dog.png</string>
+		<key>notes</key>
+		<string>For Buckley&apos;s 4th birthday, we added a mix of pretzels and wheat thins to his dinner and topped it off with 4 candles.</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Tortilla Chips</string>
+		<key>filename</key>
+		<string>chips.png</string>
+		<key>notes</key>
+		<string>I want to go there.</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Pumpkins</string>
+		<key>filename</key>
+		<string>halloween.png</string>
+		<key>notes</key>
+		<string>Can you guess which one of us is the artist?</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Montserrat in Spain</string>
+		<key>filename</key>
+		<string>montserrat.png</string>
+		<key>notes</key>
+		<string>So many amazing views on this trip</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Atlantic Ocean</string>
+		<key>filename</key>
+		<string>beach.png</string>
+		<key>notes</key>
+		<string>The ocean was too cold to get in, but it was a nice day</string>
+	</dict>
+</array>
+</plist>
